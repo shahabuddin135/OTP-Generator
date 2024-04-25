@@ -1,6 +1,7 @@
 {
-  "name": "otp-generator",
+  "name": "inquirer-otp-generator",
   "version": "1.0.0",
+  "bin": "index.js",
   "type": "module",
   "description": "A simple CLI based OTP Generator using Inquirer.js and Chalk.js ",
   "main": "index.js",
